@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+*.jar
+*.war
+*.ear
+
+.mtj.tmp/
+hs_err_pid*
+
+### JetBrains template
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+.idea/
+*.iws
+*.iml
+/out/
